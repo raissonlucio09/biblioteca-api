@@ -90,6 +90,4 @@ O console do banco de dados H2 pode ser acessado em `http://localhost:8080/h2-co
 - **User Name**: `sa`
 - **Password**: (deixe em branco)
 
----
 
-Desenvolvido por Manus AI
